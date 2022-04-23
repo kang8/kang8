@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kang8
+- 🌱 I’m currently learning PHP, vim, and emacs
